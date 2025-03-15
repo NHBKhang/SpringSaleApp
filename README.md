@@ -1,1 +1,1 @@
-# SpringSaleApp
+# Spring Sale App
